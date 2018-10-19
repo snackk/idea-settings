@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>Handle (org.skife.jdbi.v2)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.skife.jdbi.v2.Handle"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("select").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.skife.jdbi.v2.Handle"))]]></place>
+    </injection>
+  </component>
+</application>
