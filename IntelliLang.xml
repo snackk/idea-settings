@@ -6,5 +6,9 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("select").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.skife.jdbi.v2.Handle"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.skife.jdbi.v2.Handle"))]]></place>
     </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>Handle.createStatement (org.skife.jdbi.v2)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createStatement").withParameters("java.lang.String").definedInClass("org.skife.jdbi.v2.Handle"))]]></place>
+    </injection>
   </component>
 </application>
