@@ -8,11 +8,11 @@
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="derby.remote">
+    <driver id="derby.embedded">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="derby.embedded">
+    <driver id="derby.remote">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
@@ -67,11 +67,11 @@
       <option name="send-app-info" value="true" />
       <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
-    <driver id="hsqldb.remote">
+    <driver id="hsqldb.local">
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="hsqldb.local">
+    <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
@@ -90,6 +90,17 @@
     <driver id="clickhouse">
       <artifact name="ClickHouse" use="true" />
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="cassandra">
+      <artifact name="Cassandra" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
   </component>
 </application>
