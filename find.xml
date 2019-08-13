@@ -14,7 +14,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*.json</mask>
     <mask>*.sql</mask>
+    <mask>*.yml</mask>
     <mask>*.java</mask>
   </component>
 </application>
