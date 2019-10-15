@@ -109,8 +109,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*Started importing file.*" />
-                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="grepExpression" value=".*ImportPurchaseDataPoller*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
