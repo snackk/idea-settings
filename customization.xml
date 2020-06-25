@@ -21,13 +21,6 @@
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GrepConsoleTail" is_action="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="Run/Debug" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="CheckinProject" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
