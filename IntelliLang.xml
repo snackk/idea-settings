@@ -15,6 +15,10 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareBatch").withParameters("java.lang.String").definedInClass("org.skife.jdbi.v2.Handle"))]]></place>
     </injection>
     <injection language="MySQL" injector-id="java">
+      <display-name>NeuLionCustomerCardDataFileProcessor.generateBatchUpsertQuery (technology.dice.dce.onboard.importer.neulion.processor)</display-name>
+      <place><![CDATA[psiMethod().withName("generateBatchUpsertQuery").withParameters().definedInClass("technology.dice.dce.onboard.importer.neulion.processor.NeuLionCustomerCardDataFileProcessor")]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
       <display-name>StringBuilder.StringBuilder (java.lang)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("StringBuilder").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
     </injection>
