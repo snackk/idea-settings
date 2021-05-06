@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="opt@userDefined" key=".opt" provider="builtin.java" language-level="8" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="Optional.of($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
