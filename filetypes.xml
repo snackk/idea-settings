@@ -8,6 +8,7 @@
       <mapping pattern="adsfg" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <removed_mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
