@@ -1,4 +1,14 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.polarising.com" />
+          <option name="userName" value="diogo.santos" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
@@ -7,6 +17,7 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
