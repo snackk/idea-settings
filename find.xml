@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*Storage.java" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -27,8 +27,8 @@
     <mask>*pom.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.xml</mask>
-    <mask>*Storage.java</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*Storage.java</mask>
   </component>
 </application>
