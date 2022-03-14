@@ -31,5 +31,6 @@
     <mask>_*.java</mask>
     <mask>*Resource.java</mask>
     <mask>*.json</mask>
+    <mask>*Module.java</mask>
   </component>
 </application>
