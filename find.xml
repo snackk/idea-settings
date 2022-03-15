@@ -30,7 +30,8 @@
     <mask>_*.java</mask>
     <mask>*Resource.java</mask>
     <mask>*.json</mask>
-    <mask>*Module.java</mask>
     <mask>*Test.java</mask>
+    <mask>*Service.java</mask>
+    <mask>*Module.java</mask>
   </component>
 </application>
