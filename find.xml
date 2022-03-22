@@ -24,7 +24,6 @@
     <mask>*.xml</mask>
     <mask>*Storage.java</mask>
     <mask>*StorageTest.java</mask>
-    <mask>_*.java</mask>
     <mask>*Resource.java</mask>
     <mask>*.json</mask>
     <mask>*Service.java</mask>
@@ -32,5 +31,6 @@
     <mask>tp.java</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
+    <mask>_*.java</mask>
   </component>
 </application>
