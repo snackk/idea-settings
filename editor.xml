@@ -8,6 +8,7 @@
         <option value="JAVA.chain.hints" />
       </set>
     </option>
+    <option name="lastViewedProviderKeyId" value="" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
