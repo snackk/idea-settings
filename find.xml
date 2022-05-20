@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -33,8 +34,8 @@
     <mask>*Module.java</mask>
     <mask>tp.java</mask>
     <mask>*Test.java</mask>
+    <mask>_*.java</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
-    <mask>_*.java</mask>
   </component>
 </application>
