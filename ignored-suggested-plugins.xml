@@ -4,6 +4,8 @@
       <list>
         <option value="com.intellij.guice" />
         <option value="com.intellij.bigdatatools" />
+        <option value="org.dynamodb4idea" />
+        <option value="aws.toolkit" />
       </list>
     </option>
   </component>
