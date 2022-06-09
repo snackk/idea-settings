@@ -36,5 +36,6 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*Test.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
