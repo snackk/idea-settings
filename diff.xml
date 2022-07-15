@@ -3,7 +3,8 @@
     <option name="PLACES_MAP">
       <entry key="BlankDiffWindow">
         <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
+          <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
       <entry key="Merge">
