@@ -32,5 +32,6 @@
     <mask>*Test.java</mask>
     <mask>pom.xml</mask>
     <mask>*Resource</mask>
+    <mask>_*</mask>
   </component>
 </application>
