@@ -6,6 +6,7 @@
         <option value="com.intellij.bigdatatools" />
         <option value="org.dynamodb4idea" />
         <option value="aws.toolkit" />
+        <option value="com.intellij.grpc" />
       </list>
     </option>
   </component>
