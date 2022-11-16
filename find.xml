@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -25,17 +26,17 @@
     <mask>*.xml</mask>
     <mask>*StorageTest.java</mask>
     <mask>*Resource.java</mask>
-    <mask>*.json</mask>
     <mask>*Service.java</mask>
     <mask>*Module.java</mask>
     <mask>tp.java</mask>
     <mask>_*.java</mask>
-    <mask>*Test.java</mask>
     <mask>pom.xml</mask>
     <mask>*Resource</mask>
     <mask>_*</mask>
     <mask>*Storage.java</mask>
     <mask>*.sql</mask>
+    <mask>*Test.java</mask>
+    <mask>*.json</mask>
     <mask>*.java</mask>
   </component>
 </application>
